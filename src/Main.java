@@ -86,7 +86,8 @@ public class Main {
         }
 
 
-        System.out.println( " hello this is the programm here ");
+        System.out.println( "" +
+                " hello this is the programm here ");
         /// loging
 
         //-------------------------------   ( 2 )
